@@ -1,2 +1,11 @@
-# ITSCM180
-ALL of the work that I did in my ITSCM180 during Fall of 2022
+# :desktop_computer:  ITSCM180
+### ALL of the work that I did in my ITSCM180 during the Fall of 2022
+
+# :brain: What I learned from this class:
+* Object-Oriented Programming
+* File I/O
+* Jupyter Notebook
+* (Brief) Fundamental Data Structures
+
+---
+[Course Link](https://courses.uww.edu/2241/Undergraduate/ITSCM/180)
